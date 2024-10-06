@@ -1,2 +1,6 @@
 # LITA-CLASS-DOCUMENTATION
-THIS IS WHERE I DOCUMENTED MY FIRST PROJECT WHILE LEARNING DATA ANALYSIS WITH THE INCUBATOR HUB
+
+### PROJECT TITLE: MY DATA ANALYSIS JOURNEY :FROM SPREADSHEETS TO SQL
+
+### PROJECT OVERVIEW
+Welcome to my data analysis journey! In this repository, I'll be sharing my progress, projects, and insights as I explore the world of data analysis using Excel and SQL.
