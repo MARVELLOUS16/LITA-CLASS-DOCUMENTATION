@@ -33,6 +33,7 @@ The primary source oof data used here is data provided by incubator hub .
 - Advanced querying techniques (joins)
 
 ### Data Visualiation
+![photo_2024-10-06_15-03-41](https://github.com/user-attachments/assets/47142151-9e12-4139-a6bc-e890f3067435)
 
 
 
