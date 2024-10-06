@@ -1,4 +1,4 @@
-# LITA-CLASS-DOCUMENTATION
+c# LITA-CLASS-DOCUMENTATION
 
 ### PROJECT TITLE: MY DATA ANALYSIS JOURNEY :FROM SPREADSHEETS TO SQL
 
@@ -31,6 +31,10 @@ The primary source oof data used here is data provided by incubator hub .
 - Basic SQL syntax (SELECT, FROM, WHERE)
 - Data modeling and database design
 - Advanced querying techniques (joins)
+
+### Data Visualiation
+
+
 
  
  
