@@ -35,8 +35,8 @@ The primary source oof data used here is data provided by incubator hub .
 ### Data Visualiation
 ![photo_2024-10-06_15-03-41](https://github.com/user-attachments/assets/47142151-9e12-4139-a6bc-e890f3067435)
 
+![photo_2024-10-06_15-03-25](https://github.com/user-attachments/assets/7310efac-ebb0-4311-85fa-b1719dec52cc)
 
+![photo_2024-10-06_15-03-31](https://github.com/user-attachments/assets/64abf22d-a8e6-44a8-ab50-a579b4679faa)
 
- 
- 
  
